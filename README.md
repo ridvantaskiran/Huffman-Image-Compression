@@ -5,7 +5,12 @@ It has also difference method. In this method, input array was used by taking th
 
 GUI:
 
+ENCODING THE FILE
+
 ![image](https://user-images.githubusercontent.com/59413074/187638518-4de3992e-8c97-4505-8189-35422c7cab30.png)
+
+
+DECODING THE FILE
 
 ![image](https://user-images.githubusercontent.com/59413074/187638532-1f3e7f9d-6b4a-4d2c-8b15-573d2f3c4b5a.png)
 
